@@ -1,0 +1,11 @@
+PROJECT SUMMARY
+Topic: Airline Customer Experience & Service Conversations
+Rows analyzed: 14,485
+Negative: 9,082 (62.70%)
+Neutral: 3,069 (21.19%)
+Positive: 2,334 (16.11%)
+Highest negative-share airline: US Airways
+Highest positive-share airline: Virgin America
+Top recorded negative reason: Customer Service Issue
+
+IMPORTANT: Dataset period is February 2015, so findings are historical and should not be presented as current 2026 public opinion.
